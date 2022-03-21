@@ -1,0 +1,4 @@
+use_frameworks!
+target 'Scrollable Page View' do
+    pod "Player", "~> 0.13.2"
+end
