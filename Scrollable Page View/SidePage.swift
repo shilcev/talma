@@ -23,7 +23,8 @@ struct SidePage: View, PagerStateDirectAccess {
                         .onAppear() {
                             player = AVPlayer(url: URL(string: videoUrl)!)
                             player.play()
-                            // not working!!!!!!!!!!!!!!1!!!!!
+                            // not working!!!!!!!!!!!!!!1!!!!!!
+                            
                             
                             
                             
