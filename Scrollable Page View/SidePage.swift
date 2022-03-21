@@ -26,6 +26,7 @@ struct SidePage: View, PagerStateDirectAccess {
                             // not working!!!!!!!!!!!!!!1!!!!!!
                             
                             //what
+                            //
                             
                             
                                     }
